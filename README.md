@@ -116,6 +116,17 @@ document.querySelectorAll('map[name="stagemap"] area').forEach(function(area) {
 - Customize the marker offset values in the `setMarker` function according to the size and position of your marker.
 - Ensure your image map areas (`<area>`) are accurately mapped to the corresponding sections of your image.
 
----
+# For additional information or support, refer to the LimeSurvey manual or community forums.
 
-For additional information or support, refer to the LimeSurvey manual or community forums.
+https://forums.limesurvey.org/forum/design-issues/127963-script-gets-removed-from-question-source
+https://manual.limesurvey.org/Resources#:~:text=The%20pictures%20and%20media%20files,sid%20is%20the%20survey%20id.
+https://forums.limesurvey.org/forum/can-i-do-this-with-limesurvey/64296-imagemap-question
+https://forums.limesurvey.org/index.php/forum/can-i-do-this-with-limesurvey/94112-limesurvey-image-map
+https://forums.limesurvey.org/forum/can-i-do-this-with-limesurvey/77750-check-answer-from-an-image-map-and-conditions
+https://researchcomputing.mcmaster.ca/limesurvey/howtos/media/inserting-images-questions
+https://manual.limesurvey.org/Workarounds:_Manipulating_a_survey_at_runtime_using_Javascript
+https://manual.limesurvey.org/SGQA_identifier
+https://manual.limesurvey.org/Workarounds:_Survey_behaviour#Prefilling_survey_answers_using_the_survey_URL
+https://forums.limesurvey.org/forum/can-i-do-this-with-limesurvey/94133-answers-use-placeholder-instead-of-default
+https://forums.limesurvey.org/forum/can-i-do-this-with-limesurvey/127956-expression-manager-dynamically-insert-the-subquestion-id-of-the-current-questio
+
