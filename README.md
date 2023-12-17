@@ -1,0 +1,1 @@
+# LS_Embedded_ImageMap_HideAnswersQuestion_Template
